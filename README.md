@@ -15,7 +15,7 @@ A simple and fun Tic Tac Toe game built with Flutter, allowing two players to co
 ## 🛠️ Installation
 
 1. **Clone the Repository:**
-     - git clone https://github.com/your-username/tic-tac-toe-flutter.git  
+     - git clone https://github.com/Om1808/tic-tac-toe-flutter.git  
      - cd tic-tac-toe-flutter  
 
 2. **Install Dependencies:**
