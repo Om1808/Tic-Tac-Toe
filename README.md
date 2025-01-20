@@ -12,4 +12,35 @@ A simple and fun Tic Tac Toe game built with Flutter, allowing two players to co
 - **Hint Dialog**: Displays game rules for new players.
 - **Responsive UI**: Clean and interactive design.
 
+## 🛠️ Installation
+
+1. **Clone the Repository:**
+     - git clone https://github.com/your-username/tic-tac-toe-flutter.git  
+     - cd tic-tac-toe-flutter  
+
+2. **Install Dependencies:**
+   - Flutter pub get
+
+3. **Run The App:**
+   - Flutter run
+
+
+## Code Overview 
+
+1. **main.dart**
+   - Entry point of the application.
+   - Initializes the app and launches the SplashScreen.
+
+2. **splash_screen.dart**
+   - Displays an animated splash screen with the gradient background and logo.
+   - Redirects to the HomePage after delay.
+
+3. **home_page.dart**
+   - Implements the main gam logic and UI
+   - Features include the game board , score display , and actions(eg. winner, draw, hints).
+  
+
+
+   
+
 
