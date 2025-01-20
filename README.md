@@ -4,8 +4,8 @@ A simple and fun Tic Tac Toe game built with Flutter, allowing two players to co
 
 ## 🎮 Features
 
--"Two-Player Mode": Play as "O" or "X" and alternate turns.
--
+- "Two-Player Mode": Play as "O" or "X" and alternate turns.
+- "Winner Detection": Automatically checks for a winner after every move.
 -
 -
 -
